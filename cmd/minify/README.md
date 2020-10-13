@@ -45,6 +45,15 @@ brew install tdewolff/tap/minify
 
 [Brew tap](https://github.com/tdewolff/homebrew-tap/)
 
+### Windows
+Using Chocolatey:
+
+```
+choco install minify
+```
+
+[Package on Chocolatey](https://chocolatey.org/packages/minify)
+
 ### Ubuntu
 Update the package index:
 
